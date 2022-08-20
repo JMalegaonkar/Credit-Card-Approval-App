@@ -25,6 +25,6 @@ install need: <br />
 ## Models
 ### For Supervised Learning Models 
  Logistic Regression, XGBoost, Feed Forward Neural Network, Support Vector Machine: See "Model_Creation.ipynb" file\
-  Arnib's model (Feed Forward Neural Network): See "FFNN_CreditCardApproval.ipynb"
+  Feed Forward Neural Network): See "FFNN_CreditCardApproval.ipynb"
 ### For Unsupervised Learning (K-Means Clustering)
  K-Means Clustering: See "Unsupervised Learning.ipynb" file
